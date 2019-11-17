@@ -100,3 +100,5 @@ oomd is GPL 2 licensed, as found in the LICENSE file.
 [4]: https://github.com/open-source-parsers/jsoncpp
 [5]: https://github.com/google/googletest
 [6]: https://github.com/systemd/systemd/tree/master/src/libsystemd/
+
+# Alternative Configuration Suggestion.
